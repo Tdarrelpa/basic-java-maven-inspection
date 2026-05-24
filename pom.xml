@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/Tdarrelpa/Basic-Java-Maven-Inspection</url>
+      <url>https://maven.pkg.github.com/Tdarrelpa/basic-java-maven-inspection</url>
     </repository>
   </distributionManagement>
   
